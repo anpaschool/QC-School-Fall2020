@@ -18,7 +18,7 @@ This Fall we will be offering Quantum Computing classes with a focus on Quantum 
 
 This repository will include all the Jupyter Notebooks discussed in our classes and discussions in QC School Fall2020. 
 
-Notebook will be added after every class.
+Notebook will be added after every class. Students will be shared the link to Github page. 
 
 Contributors:
 [Dibakar Sigdel](https://www.linkedin.com/in/sigdeld/),[Shree Krishna Bhattarai](https://www.linkedin.com/in/shree-k-bhattarai-92625316/),[Ghanashyam Khanal](https://www.linkedin.com/in/ghanashyam-khanal/),[Shovit Bhari](https://www.linkedin.com/in/shovitraj/), [Aman Ganeju](https://www.linkedin.com/in/aman-ganeju-043aa7184/), [Oat Bahadur Dhakal](https://www.linkedin.com/in/oatbahadur-dhakal-2948391b4/)
